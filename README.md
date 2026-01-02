@@ -57,11 +57,6 @@ python run_4_models.py
 
 The system will display formatted result tables for each model and save a comprehensive report to `results_4_models.csv`.
 
-| Dataset|    MSE     |  RMSE |   R²   |
-|        |            |       |        |
-| Sample | 1.25 × 10³ | 35.36 | 0.9850 |
-
-
 
  📝 License
 
@@ -69,4 +64,3 @@ This project is open-source. Feel free to use and contribute!
 
 
 
- هل تود مني إضافة أي قسم خاص بالرسوم البيانية (Visualizations) أو طريقة توثيق النتائج بالصور؟
